@@ -2,10 +2,8 @@
 # -*- coding: utf-8 -*-
 
 '''
-@author      : Anton Foltz
-@professor   : Dr. Thomas Miller
+@author      : Anton 
 @date        : 04/29/2018
-@class       : MSDS 452 - Web and Data Analytics
 @description : Configuration file for TweetyPi 
 @filename    : config.py
 '''
