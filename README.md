@@ -326,8 +326,6 @@ Mentions   :
 
 > query  #exploit
 
-[!] Search parameters resulted in an error. Please reset.
-
 [COLLECTION PREVIEW]
 
 [TWEET]
