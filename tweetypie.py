@@ -18,7 +18,7 @@ set #!/usr/bin/env python3
 '''
 set query 10    : Set query to a max of 10 tweets
 set table dfir  : Override the default table and name it dfir
-query dfir hack : Query Twitter for instances of text containing query hack
+query dfir hack : Query Twitter for instances of text containing: dfir hack
 flush tweets    : Not satisfied with output, flush dfir hack query results
 query #dfir     : Query Twitter for instances of text containing #dfir
 save tweets     : Save tweet to the database, using default (twitter.db)
