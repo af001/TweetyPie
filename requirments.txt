@@ -1,0 +1,5 @@
+tweepy
+numpy
+pandas
+pyfiglet
+SQLAlchemy
