@@ -2,6 +2,15 @@
 
 Python 3 tool that can be used to extract tweets from Twitter using the Twitter API. The tool stores all tweets in a pandas dataframe, and the user can save the tweets to a sqlalchemy database once complete.
 
+#### Install
+
+```bash
+git clone https://github.com/af001/TweetyPie.git
+cd TweetyPie
+pip3 install -r requirments.txt
+python3 tweetypie.py
+```
+
 #### Example Usage
 
 ```bash
