@@ -23,6 +23,7 @@ class Config():
     ## GLOBAL VARIABLES - TWITTER DEFAULT SETTINGS ##
         
     # Authenticate on start to minimize auth API calls
+    # Set your API KEY and SECRET here
     auth = tweepy.OAuthHandler('key', 
                                'secret')
     
